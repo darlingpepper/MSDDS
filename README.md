@@ -1,5 +1,5 @@
 # MSDDS
-# Installation
+## Installation
 
 ```
 conda create -n MSDDS python==3.9
