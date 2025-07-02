@@ -1,2 +1,10 @@
 ckpts/videomol/* filter=lfs diff=lfs merge=lfs -text
 ckpts/imagemol/* filter=lfs diff=lfs merge=lfs -text
+cell/* filter=lfs diff=lfs merge=lfs -text
+cell/cell_eff_raw.csv filter=lfs diff=lfs merge=lfs -text
+cell/cell_exp_raw.csv filter=lfs diff=lfs merge=lfs -text
+cell/cell_met_raw.csv filter=lfs diff=lfs merge=lfs -text
+cell/cell_mut_raw.csv filter=lfs diff=lfs merge=lfs -text
+cell/gene_4079.csv filter=lfs diff=lfs merge=lfs -text
+cell/cell_cn_raw.csv filter=lfs diff=lfs merge=lfs -text
+cell/cell_dep_raw.csv filter=lfs diff=lfs merge=lfs -text
