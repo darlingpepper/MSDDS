@@ -1,0 +1,2 @@
+ckpts/videomol/* filter=lfs diff=lfs merge=lfs -text
+ckpts/imagemol/* filter=lfs diff=lfs merge=lfs -text
