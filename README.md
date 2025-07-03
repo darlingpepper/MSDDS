@@ -1,4 +1,19 @@
 # MSDDS
+
+![](MSDDS.png)
+
+## File Descriptions
+
+* **cell/**: Contains multi-omics data of cell lines
+* **ckpts/**: Stores pre-trained model weights
+* **drugcomb/**: A dataset directory
+* **drugcombdb/**: Another dataset directory
+* **dataprocess.py**: Implements data preprocessing
+* **main.py**: Manages model training and prediction
+* **dataset.py**: Loads the datasets
+* **model_h.py**: Contains the model implementation
+* **utils.py**: Implements model evaluation methods and result saving
+
 ## Installation
 
 ```
